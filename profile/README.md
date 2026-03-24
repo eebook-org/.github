@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="eebook-logo_dark@2x.png" width="420" />
+  <img src="eebook-logo_dark2x.png" width="220" />
 </p>
 
 <h2 align="center">Tools for serious investors</h2>
