@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="200" height="48" viewBox="0 0 200 48">
+  <rect x="0" y="4" width="40" height="40" rx="6" fill="hsl(43,100%,55%)"/>
+  <polyline points="8,29.4 15.2,22.2 20,26.4 32,16" fill="none" stroke="#1a1a2e" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+  <polyline points="26,16 32,16 32,22" fill="none" stroke="#1a1a2e" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+  <text x="52" y="32" font-size="24" font-family="Space Grotesk, Arial, sans-serif" font-weight="600" letter-spacing="-0.5" fill="#e8ecf0">eebook</text>
+</svg>
