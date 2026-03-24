@@ -1,31 +1,47 @@
-## Hi there 👋
+<p align="center">
+  <img src="eebook-logo_dark@2x.png" width="420" />
+</p>
 
-We are **eebook** — building tools for private and corporate investors.
+<h2 align="center">Tools for serious investors</h2>
 
-### 🚀 What we do
-We create services that help people and companies:
-- track and manage finances
-- build and analyze investment portfolios
-- make smarter financial decisions
-
-No magic — just clean, practical tools that actually solve real problems.
-
-### 🛠️ Our focus
-- Financial tracking systems  
-- Investment portfolio management  
-- Analytics & reporting  
-- Automation of financial workflows  
-
-### 🤝 Contributing
-Right now, most projects are internal, but we’re moving towards more openness.
-
-If you’re interested in collaboration — feel free to reach out or open an issue.
-
-### 📚 Resources
-Documentation and internal guides are gradually being structured and published.
-
-Stay tuned.
+<p align="center">
+Building infrastructure for portfolio management, financial analytics and investment automation.
+</p>
 
 ---
 
-> We believe finance tools should be simple, transparent, and actually useful — not overcomplicated dashboards nobody understands.
+## About
+
+**eebook** is a set of services designed to help private and corporate investors  
+track assets, manage portfolios and analyze financial performance.
+
+Our goal is simple: build **practical tools that solve real financial problems**  
+without turning them into bloated fintech dashboards.
+
+---
+
+## What we build
+
+Our ecosystem focuses on several core areas:
+
+- 📊 **Portfolio management** — tracking investments, transactions and performance  
+- 🧠 **Financial analytics** — portfolio metrics, performance analysis and insights  
+- 🏦 **Market data infrastructure** — aggregation of data from multiple exchanges  
+- ⚙️ **Automation** — tools that simplify financial workflows
+
+---
+
+## Contributing
+
+Most repositories are currently internal while the ecosystem is evolving.
+
+However, we are gradually moving towards a more open development model.
+
+If you're interested in collaboration or discussion — feel free to open an issue.
+
+---
+
+## Philosophy
+
+> Financial tools should be simple, transparent and reliable.  
+> Not another overengineered fintech dashboard nobody understands.
